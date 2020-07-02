@@ -1,0 +1,115 @@
+#head{
+  box-shadow:0px 8px 8px 0px black;
+  background-color:grey;
+  text-align:center;
+  background-image:url("vamshi/moon.jpeg");
+  color:#FFFF00;
+  height:220px;
+  border-radius:20px;
+  }
+#c{
+  box-shadow:inset 0px 0px 50px white; 
+  font-size:180%;
+  display:inline-block;
+}
+#img
+{
+  box-shadow:0px 8px 8px 0px black;
+  width:300px;
+  margin-top:10px;
+  background-color:#DCDCDC;
+  display:inline-block;
+  float:left;
+  border-radius:20px;
+  height:900px;
+}
+#u{
+  border-bottom:1px solid black;
+}
+#mypic{
+  height:200px;
+  width:200px;
+  margin-left:50px;
+  margin-top:20px;
+  border-radius:50%;
+}
+table{
+  border:1px black;
+  border-spacing:0;
+  width:100%;
+  text-align:center;
+}
+#ficon
+{
+  height:20px;
+  width:20px;
+  margin-left:110px;
+}
+#gicon{
+  height:20px;
+  width:20px;
+  padding-left:10px;
+}
+#gmicon
+{
+  height:20px;
+  width:20px;
+  padding-left:10px;
+}
+#tablea{
+  margin-left:30px;
+  float:left;
+ 
+}
+.etable{
+  border:1px black;
+  border-spacing:0;
+  width:600px;
+  text-align:center;
+  
+}
+ul{
+  font-size:150%;
+}
+#text{
+  font-size:100%;
+  text-align:left;
+  box-shadow:inset 0px 0px 8px black;
+  font-family:Times New Roman;
+  border-radius:10px;
+  padding:10px;
+  height:30px;
+}
+i
+{
+  color:red;
+}
+iframe{
+  display:block;
+  margin-left:auto;
+  margin-right:auto;
+  border-radius:10px;
+  border:3px solid black;
+}
+#about{
+  font-size:200%;
+  box-shadow:inset 0px 0px 8px black;
+  height:100px;
+  text-align:center;
+  line-height:50px;
+  font-family:Times New Roman;
+  border-radius:10px;
+}
+#hobby{
+  height:100px;
+  width:100px;
+  padding-left:70px;
+  }
+#footer
+{
+  text-align: center;
+  border:2px solid black;
+  margin-top:20px;
+  background-color:#DCDCDC;
+  border-radius:10px;
+}
